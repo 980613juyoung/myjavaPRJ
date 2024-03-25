@@ -7,7 +7,7 @@ public class Code02_11 {
         Scanner s = new Scanner(System.in);
 
         double num;
-        System.out.println("실수를 입력하세요 :");
+        System.out.println(" 1.1 :");
         num = s.nextDouble();
         System.out.println("사용자가 입력한 값 ==> " + num);
 
