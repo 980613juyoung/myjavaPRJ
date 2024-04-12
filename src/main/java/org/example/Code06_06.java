@@ -7,8 +7,6 @@ public class Code06_06 {
 
         for (int i = 1 ; i <= 10 ; i++) {
             hap += i;
-            int hap = 0;
-            hap += i;
 
             System.out.println(" hap : " + hap);
 
