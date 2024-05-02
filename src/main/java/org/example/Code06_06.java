@@ -12,5 +12,7 @@ public class Code06_06 {
 
         }
         System.out.println("1부터 10까지의 합계는" + hap);
+
+
     }
 }
