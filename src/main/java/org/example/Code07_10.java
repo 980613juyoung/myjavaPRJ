@@ -16,7 +16,6 @@ class Rabbit3 {
 //    }
     }
 }
-
 public class Code07_10 {
     public static void main(String[] args) {
         String rabbitColor = "파란색";
